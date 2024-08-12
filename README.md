@@ -22,7 +22,7 @@ description: This is a template for publishing your dataset with Datahub Cloud.
 
 <PlotlyLineChart
   data={{
-    url: 'continent_gold.csv'
+    url: 'continent_golds.csv'
   }}
   title=""
   xAxis="Continent"
