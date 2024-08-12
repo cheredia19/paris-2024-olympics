@@ -3,6 +3,8 @@ title: Welcome to your template dataset page!
 description: This is a template for publishing your dataset with Datahub Cloud.
 ---
 
+## Medal table ordered by medals
+
 <FlatUiTable
   data={{
     url: 'medal_table.csv'
@@ -11,9 +13,9 @@ description: This is a template for publishing your dataset with Datahub Cloud.
 
  <PlotlyBarChart
   data={{
-    url: 'medal_table.csv'
+    url: 'region_gold.csv'
   }}
   title=""
-  xAxis="NOC"
-  yAxis="Total"
+  xAxis="Region"
+  yAxis="Gold Medals"
 />
