@@ -19,3 +19,12 @@ description: This is a template for publishing your dataset with Datahub Cloud.
   xAxis="Region"
   yAxis="Gold Medals"
 />
+
+<PlotlyLineChart
+  data={{
+    url: 'continent_gold.csv'
+  }}
+  title=""
+  xAxis="Continent"
+  yAxis="Gold Medals"
+/>
