@@ -11,7 +11,7 @@ description: This is a template for publishing your dataset with Datahub Cloud.
   }}
  />
 
- <PlotlyBarChart
+<PlotlyBarChart
   data={{
     url: 'region_gold.csv'
   }}
@@ -27,4 +27,13 @@ description: This is a template for publishing your dataset with Datahub Cloud.
   title=""
   xAxis="Continent"
   yAxis="Gold Medals"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'region_total.csv'
+  }}
+  title=""
+  xAxis="Region"
+  yAxis="Medals"
 />
