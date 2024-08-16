@@ -53,7 +53,7 @@ The bar chart below shows the total number of gold medals each region accumulate
 
 ## A similar trend
 
-Considering the total number of medals (gold, silver, and bronze), Europe gathered the most medals at the last Olympic Games, followed by the American and Asian continents. The graph below shows the total number of medals won by each continent.
+Considering the total number of medals (gold, silver, and bronze), **Europe gathered the most medals at the last Olympic Games**, followed by the American and Asian continents. The graph below shows the total number of medals won by each continent.
 
 <PlotlyLineChart
   data={{
@@ -64,13 +64,15 @@ Considering the total number of medals (gold, silver, and bronze), Europe gather
   yAxis="Medals"
 />
 
+Spread out regionally, Western European countries again showed their muscle in Olympic sports. The 14 nations from this region **claimed 316 medals**. East Asia (186) and North America (153) accumulated at least 150 medals. **No other region won over 100 medals** in the past Olympic games.
 
+The graphic below shows the medals won by region in Paris 2024. The medal labeled as *No region* was a bronze earned by an athlete from the Refugee Olympic Team.
 
 <PlotlyBarChart
   data={{
     url: 'region_total.csv'
   }}
-  title=""
+  title="Total medals by region"
   xAxis="Region"
   yAxis="Medals"
 />
