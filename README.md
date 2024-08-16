@@ -24,11 +24,11 @@ Let's focus on Europe for a moment. Fourteen countries from Western Europe and 1
 - Italy: 9th, 12
 - Germany: 10th, 12
 
-On the other hand, Finland didn't win any single medal, [ending a 116-year medal streak in the Summer Olympics](https://www.helsinkitimes.fi/finland/finland-news/domestic/25508-paris-ends-finland-s-116-year-medal-streak-in-summer-olympics.html).
+On the other hand, **Finland didn't win any medal**, [ending a 116-year medal streak in the Summer Olympics](https://www.helsinkitimes.fi/finland/finland-news/domestic/25508-paris-ends-finland-s-116-year-medal-streak-in-summer-olympics.html).
 
-China, Japan, and South Korea gathered 95% of the 77 gold medals won by East Asian nations. Of the countries from Oceania, Australia earned 18 golds, while New Zealand won 10.
+China, Japan, and South Korea gathered **95% of the 77 gold medals** won by East Asian nations. Of the countries from Oceania, Australia earned 18 golds, while New Zealand won 10.
 
-Uzbekistan was the best Eurasian performer with eight medals, followed by Georgia (two). Azerbaijan and Kazakstan won one gold each. An AIN athlete (name adopted by the International Olympic Committee to allow the participation in the Paris 2024 Olympic Games of those athletes of Russian and Belarusian nationality who fulfilled the requirements imposed after the suspension of the Russian Olympic Committee and the Belarusian Olympic Committee) won a gold medal.
+Uzbekistan was the **best Eurasian performer** with eight medals, followed by Georgia (two). Azerbaijan and Kazakstan won one gold each. An AIN athlete (name adopted by the International Olympic Committee to allow the participation in the Paris 2024 Olympic Games of those athletes of Russian and Belarusian nationality who fulfilled the requirements imposed after the suspension of the Russian Olympic Committee and the Belarusian Olympic Committee) won a gold medal.
 
 Hungary was the country from Central and Eastern Europe that won the most gold medals (six), followed by Ukraine, Romania, Bulgaria, Serbia, and Czechia (three).
 
@@ -77,11 +77,12 @@ The graphic below shows the medals won by region in Paris 2024. The medal labele
   yAxis="Medals"
 />
 
-## Medal table ordered by medals
+## Medal table ordered by Gold, Silver, and Bronze medals
+
+The following table displays the final standings from the Paris 2024 Summer Olympic Games, ordered by the number of gold, silver, and bronze medals by each National Olympic committee. It can be filtered by NOC, continent, or region. Ranks can also be set based on the number of medals per type and total. Data is available to download in CSV and JSON formats.
 
 <FlatUiTable
   data={{
     url: 'medal_table.csv'
   }}
  />
-
