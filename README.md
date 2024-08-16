@@ -46,7 +46,7 @@ The bar chart below shows the total number of gold medals each region accumulate
   data={{
     url: 'region_gold.csv'
   }}
-  title=""
+  title="Gold medals by region"
   xAxis="Region"
   yAxis="Gold Medals"
 />
