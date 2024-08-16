@@ -1,6 +1,6 @@
 ---
 title: Regions and continents with the most medals at the Paris 2024 Olympic Games
-description: 
+description: Countries in Western Europe, East Asia, and North America were the best performers
 ---
 
 Although the United States of America and China led the Paris 2024 Olympic Games with 40 gold medals each, **their contribution wasn't enough** to make their respective continents lead the medal table. 
