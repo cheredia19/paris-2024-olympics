@@ -11,11 +11,18 @@ As a continent, Europe led the way with 122 gold medals, followed by Asia (83) a
   data={{
     url: 'continent_golds.csv'
   }}
-  title="**Gold medals by continent**"
+  title="Gold medals by continent"
   xAxis="Continent"
   yAxis="Gold Medals"
 />
 
+Let's focus on Europe for a moment. Fourteen countries from Western Europe and 16 from the Central and Eastern region won at least one gold medal. But here's the thing: of the top ten countries in the medal standings, fifty percent belong to Western Europe:
+
+France: 5th notch in the medal table, 16 gold medals
+Netherlands: 6th, 15 golds
+Great Britain: 7th, 14
+Italy: 9th, 12
+Germany: 10th, 12
 
 <PlotlyBarChart
   data={{
