@@ -32,7 +32,7 @@ Uzbekistan was the **best Eurasian performer** with eight medals, followed by Ge
 
 Hungary was the country from Central and Eastern Europe that won the most gold medals (six), followed by Ukraine, Romania, Bulgaria, Serbia, and Czechia (three).
 
-Brazil stood out from the Latin America and Caribbean region with three golds, followed by Cuba (two). Jamaica, Ecuador, Argentina, Chile, Saint Lucia, the Dominican Republic, Guatemala, and Dominica won one gold medal each.
+Brazil stood out from the Latin America and Caribbean region with three golds, followed by Cuba (two). Jamaica, Ecuador, Argentina, Chile, Saint Lucia, the Dominican Republic, Guatemala, and Dominica won one gold medal each. Venezuela didn't win a medal for the first time since the Sydney 2000 Olympic games.
 
 The Islamic Republic of Iran, despite the [14 Iranian athletes who fled the country and represented the Refugee Olympic Team](https://www.newarab.com/analysis/why-there-are-so-many-iranians-refugee-olympic-team), got three gold medals in Paris. Bahrain and Algeria (two each) followed Iran as the MENA countries with the most gold medals. Israel, Egypt, Tunisia, and Morocco won one each.
 
