@@ -11,7 +11,7 @@ As a continent, Europe led the way with 122 gold medals, followed by Asia (83) a
   data={{
     url: 'continent_golds.csv'
   }}
-  title="Gold medals by continent"
+  title="**Gold medals by continent**"
   xAxis="Continent"
   yAxis="Gold Medals"
 />
