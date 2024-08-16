@@ -34,6 +34,14 @@ Hungary was the country from Central and Eastern Europe that won the most gold m
 
 Brazil stood out from the Latin America and Caribbean region with three golds, followed by Cuba (two). Jamaica, Ecuador, Argentina, Chile, Saint Lucia, the Dominican Republic, Guatemala, and Dominica won one gold medal each.
 
+The Islamic Republic of Iran, despite the [14 Iranian athletes who fled the country and represented the Refugee Olympic Team](https://www.newarab.com/analysis/why-there-are-so-many-iranians-refugee-olympic-team), got three gold medals in Paris. Bahrain and Algeria (two each) followed Iran as the MENA countries with the most gold medals. Israel, Egypt, Tunisia, and Morocco won one each.
+
+Of the Sub-Saharan Africa region, Kenya excelled with four gold medals. South Africa, Ethiopia, Botswana, and Uganda also reached the pinnacle of the podium.
+
+The Philippines and Indonesia were the Southeast Asian countries that did best, with two golds each.
+
+The bar chart below shows the total number of gold medals each region accumulated at the Paris 2024 Summer Olympics.
+
 <PlotlyBarChart
   data={{
     url: 'region_gold.csv'
