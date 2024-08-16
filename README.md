@@ -79,7 +79,7 @@ The graphic below shows the medals won by region in Paris 2024. The medal labele
 
 ## Medal table ordered by Gold, Silver, and Bronze medals
 
-The following table displays the final standings from the Paris 2024 Summer Olympic Games, ordered by the number of gold, silver, and bronze medals by each National Olympic committee. It can be filtered by NOC, continent, or region. Ranks can also be set based on the number of medals per type and total. Data is available to download in CSV and JSON formats.
+The following table displays the final standings from the Paris 2024 Summer Olympic Games, ordered by the number of gold, silver, and bronze medals by each National Olympic committee. It can be filtered by NOC, continent, or region. Ranks can also be set based on the number of medals per type and total. The data is available for download in CSV and JSON formats.
 
 <FlatUiTable
   data={{
